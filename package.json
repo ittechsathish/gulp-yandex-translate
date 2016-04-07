@@ -1,0 +1,30 @@
+{
+    "name": "gulp-yandex-translate",
+    "version": "1.0.0",
+    "description": "Translate module for yandex",
+    "main": "index.js",
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-util": "^2.2.14",
+        "through2": "^0.4.1",
+        "yandex-translate": "*"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ittechsathish/gulp-yandex-translate.git"
+    },
+    "keywords": [
+        "translate",
+        "yandex"
+    ],
+    "author": "Sathishkumar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ittechsathish/gulp-yandex-translate/issues"
+    },
+    "homepage": "https://github.com/ittechsathish/gulp-yandex-translate#readme"
+}

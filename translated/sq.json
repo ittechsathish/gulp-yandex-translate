@@ -1,0 +1,306 @@
+{
+	"COMMON": {
+		"MSG_UNDERDEV": "Kjo nuk është një pjesë e këtij demo",
+		"BLANK": "&nbsp;",
+		"OSCS": "Mundësi Scorecards",
+		"OPPS": "Mundësi E Ndjekjen E Planeve",
+		"CIPS": "Klienti Ndërveprimit Planet",
+		"WQ": "Puna Radhë",
+		"OSC": "Mundësi Scorecard",
+		"OPP": "Mundësi Kërkimi Të Planit Të",
+		"CIP": "Klienti Ndërveprimit Të Planit",
+		"COLLABORATIVE_REVIEW": "Bashkëpunimi Komente",
+		"My_OSC_OPP_CIP_Filter": "Im OSC/OPP/PIK",
+		"My_Invitations_Participation_Filter": "Im Ftesat/Ndjekjet",
+		"My_Accounts_Filter": "Llogaritë E Mia",
+		"Show_Closed_Items": "Përfshijnë Të Mbyllura Artikuj",
+		"DATA_UNAVAILABLE": "Nuk ka të dhëna në dispozicion për të zgjedhur opsion.",
+		"SYNC_NOW": "Sinkronizo Tani",
+		"OFFLINE_ITEMS": "Ju keni shkëputur artikuj",
+		"OK": "OK",
+		"CANCEL": "Cancel",
+		"YES": "Po",
+		"NO": "Asnjë",
+		"BACK": "Prapa",
+		"NEXT": "Tjetër",
+		"SUBMIT": "submit",
+		"My_Upcoming_Meetings": "Time Të Ardhshme, Takime",
+		"My_Best_Actions_Due": "Tim Më Të Mirë Për Shkak Të Veprimeve Të",
+		"My_Expected_Decision_Dates": "Im Pritet Vendimi Datat",
+		"PAGE_NOT_FOUND": "Kjo faqe është në zhvillim e sipër",
+		"DOWNLOAD": "Shkarkimit raporti juaj",
+		"NO_EMAIL_CLIENT": "Asnjë klient email që gjendet në këtë PC. Ju lutem instaloni Microsoft Outlook ose Mozilla Thunderbird."
+	},
+	"LANDING": {
+		"GOOD": "I mirë",
+		"MORNING": "Mëngjes",
+		"EVENING": "Mbrëmje",
+		"AFTERNOON": "Pasdite",
+		"CREATE": {
+			"TITLE": "Krijuar",
+			"OSC": "Mundësi Scorecards (OSC)",
+			"OPP": "Mundësi e Ndjekjen e Planeve (OPP)",
+			"CIP": "Klienti Ndërveprimit Planet (CIP)",
+			"CRD": "Bashkëpunimi Shqyrtim Datat"
+		},
+		"UPCOMING": {
+			"TITLE": "Im Veprim",
+			"MEETING": "Takimet E Ardhshme",
+			"Best_Actions_Due": "Më Të Mirë Të Veprimeve Për Shkak Të",
+			"Expected_Decision_Dates_Approaching": "Pritet Vendimi Datat"
+		},
+		"WORKQ": {
+			"TITLE": "Puna Radhë"
+		},
+		"REVIEW": {
+			"TITLE": "Bashkëpunimi Komente"
+		}
+	},
+	"OSC_DETAILS": {
+		"Single_Sales_Objective": "Vetëm Shitjes Objektiv",
+		"Practice_service_type": "Praktikë: shërbimi lloji",
+		"Opportunity_description": "Mundësi përshkrimi",
+		"estimated_total_fees": "totale të llogaritura me tarifat",
+		"Key_account_tier": "Të llogarisë në grupin",
+		"original": "origjinal",
+		"current": "e tanishme",
+		"Expected_decision_date": "Pritet vendimi i datës",
+		"pursuit_stage": "kërkim skenë",
+		"probability_of_success": "Probabiliteti i Suksesit",
+		"created_by": "krijuar nga",
+		"last_updated_by": "modifikimi i fundit nga",
+		"Latest_Collaborative_Review_date": "Fundit Bashkëpunuese në Shqyrtim datën",
+		"Collaborative_Review_Summary": "Bashkëpunimi Shqyrtim Përmbledhje",
+		"Lead_Account_Partner": "Të Çojë Llogari Të Partnerit",
+		"opportunity_Partner": "mundësi Partner",
+		"Outcome": "Rezultatet:",
+		"System_Close_Date": "Sistemi I Afërt Data:",
+		"original_score": "origjinale të shënuar:",
+		"current_score": "aktuale të shënuar:",
+		"SAVE": "RUAJ",
+		"Opportunity_ID": "Mundësi ID",
+		"SETTINGS": {
+			"Attachments": "Të bashkëngjitni skedarë",
+			"Notes": "Shënime",
+			"Email": "Email",
+			"Audit_History": "Auditimi I Historisë",
+			"Print": "Print/PDF"
+		},
+		"TABLE_HEADING": {
+			"ITEM": "Pika",
+			"SCORECARD_CRITERIA": "Scorecard Kriteret",
+			"POINTS": "Pikë",
+			"RESPONSE": "Përgjigje"
+		},
+		"CONFIRM": {
+			"OFFLINE_OSC_CONFIRM_TEXT": "Jeni i sigurt, ju dëshironi të fshini këtë fotografi?",
+			"NAVIGATION_CONFIRM_TEXT": "A ju dëshironi të ruani, ndryshimet tuaja të para të lundrimit larg? Të gjitha të pashpëtuar ndryshimet do të jetë e humbur.",
+			"OFFLINE_NOTIFICATION": "Ju jeni duke punuar aktualisht e shkëputur. Ndryshimet do të jenë të përditësuar automatikisht kur ju të ri-lidheni me KPMG server.",
+			"SAVE_SCORE_CONFIRM_TEXT": "Ju kam përditësuar këtë OSC. Si rezultat i kësaj, ju doni të ndryshoni Pritur Vendimin e Datës, Ndjekje Skenë dhe/ose Mundësia e Suksesit për të siguruar nënshtrimin? Këto përditësime do të pasqyrohen në SYNC.",
+			"UNCHANGED_TEXT": "Ju nuk keni bërë ndonjë ndryshim që duhet të jenë të shpëtuar.",
+			"CREATE_NAVIGATION_TEXT": "Ju nuk keni një OSC krijuar ende. A ju doni të krijoni një tani?",
+			"SCORE_CARD_CREATE_NAVIGATE_FROM_SYNC_CONFIRM_TEXT": " Ju nuk keni një OSC krijuar ende për këtë mundësi. A ju doni të krijoni një tani? ",
+			"SCORE_CARD_CREATE_NAVIGATE_FROM_SYNC_LOCKED_TEXT": " Mundësia është e bllokuar nga një përdorues tjetër. Ju lutemi përdorni të tjera mundësi për të krijuar OSC.",
+			"EMAIL_CLIENT_DEFAULT_TEXT": "Ju lutemi të bëjë disa ndryshime në dokumentin e para kursimit.",
+			"OPPURTUNITY_CREATE_CONFIRM_TEXT": "Nuk ka OSC të krijuar mundësi. A ju doni të krijoni një tani?",
+			"OPPURTUNITY_ALREADY_EXIST": "Një OSC/OPP është tashmë i krijuar për këtë Mundësi Id në sistemin. Ju lutem rigjykuar me një tjetër Mundësi e letërnjoftimit ose e rinovuar ekzistuese OSC/OPP."
+		}
+	},
+	"OPP_DETAILS": {
+		"ADEQUACY_OF_CURRENT_POSITION": "Përshtatshmëria Pozitën Aktuale",
+		"EUPHORIA": "Euforia",
+		"GREAT": "E madhe",
+		"SECURE": "E sigurt",
+		"COMFORT": "Rehati",
+		"OK": "Ok",
+		"CONCERN": "Shqetësim",
+		"DISCOMFORT": "Siklet",
+		"WORRY": "Bëni merak",
+		"FEAR": "Frika",
+		"PANIC": "Panik",
+		"CURRENT_SPEND": "Aktuale Të Shpenzuar",
+		"TOTAL_SPEND": "Totale Të Shpenzuar",
+		"TOTAL_OPPORTUNITY_VALUE": "Gjithsej Mundësi Vlera",
+		"AUDIT_CLIENT_FLAG": "Auditimit Klienti Flamurit",
+		"COMPETITIVE_ALTERNATIVES": "Konkurruese Alternativa:",
+		"MY_POSITION": "Pozicioni im kundrejt Konkurrencës:",
+		"TIMING_PRIORITIES": "Koha për Prioritetet:",
+		"COMPETITOR_NAMES": "Konkurrenti Emrat:",
+		"BUYING_INFLUENCES_INV": "Blerja E Ndikimeve Të Përfshirë",
+		"BUYING_INFLUENCES": "Blerja E Ndikimeve Të",
+		"NAME": "Emri",
+		"TITLE": "Titulli",
+		"LOCATION": "Location",
+		"ROLE": "Roli",
+		"DEGREE_INFLUENCE": "Shkalla e Ndikimit",
+		"MODE": "Mode",
+		"RESULTS_ORG": "Rezultatet (Organizatë)",
+		"WINS": "Fiton (Personale Dhe Të Nxitur Nga)",
+		"RATING": "Rating (-5 to +5)",
+		"EVIDENCE_TO_SUPPORT_YOUR_RATING": "Prova për të Mbështetur tuaj rating",
+		"CONFIRM": {
+			"OFFLINE": "Ju jeni offline. Dokumenti do të rifreskohet automatikisht sapo ju të lidheni me Internet.",
+			"SAVE_SCORE": "Ju kam përditësuar këtë OPP. Si rezultat i kësaj, ju doni të ndryshoni Pritur Vendimin e Datës, Ndjekje Skenë dhe/ose Mundësia e Suksesit për të siguruar nënshtrimin? Këto përditësime do të pasqyrohen në SYNC.",
+			"UNCHANGED": "Ju lutemi të bëjë disa ndryshime në dokumentin e para kursimit.",
+			"CREATE": "Aktualisht nuk ka Mundësi Ndjekje Plan ekziston. A doni për të krijuar një OPP për këtë mundësi?"
+		}
+	},
+	"FOOTER": {
+		"TITLE": "Powered by KTech",
+		"COPYTEXT": "&copy; 2015 Miller Heiman, Inc. Të gjitha të drejtat janë të rezervuara.",
+		"WARNING": "Rregulloret e qeverisë vendin kufizime të caktuara në kontraktorët gjatë procesit të prokurimit. Këto rregullore dhe ynë lidhur me politikat gjithmonë të marrë përparësi mbi scorecard kriteret. Në veçanti, kjo vlen për sendet 6, 7, 12 dhe 19."
+	},
+	"PAGENOTFOUND": {
+		"BODY": "Kjo faqe është në zhvillim e sipër"
+	},
+	"PAGE_ERROR": {
+		"BAD_REQUEST": "Për të krijuar një raport të ri, kliko butonin + icon. Për të redaktoni raport, kliko Tools>Ndrysho ikonën."
+	},
+	"REPORTS": {
+		"TITLE": "Raportet E Mia",
+		"VIEW_SAVED_REPORTS": "Pamja E Ruhen Raportet E",
+		"APPLIED_FILTERS": "Aplikuar Filtrat",
+		"BUTTONS": {
+			"BACK_TO_EDIT": "Mbrapa për të Redaktuar",
+			"SAVE_FILTERS": "Ruaj Filtrat",
+			"EXPORT": "Eksporti",
+			"EMAIL": "Email",
+			"APPLY_FILTER": "Filtri Zbatohet"
+		},
+		"SELECT_ALL_SUBSELECTION": "Zgjidhni të Gjitha Nën-përzgjedhja ",
+		"NO_APPLIED_FILTERS_FOUND": "Nuk ka aplikuar filtra të gjetur",
+		"FILTERS": "Filtrat",
+		"CREATE_NEW": "Të Krijuar Të Reja",
+		"DELETE_CONFIRM_TEXT": "Jeni i sigurt se doni të fshihet ky raport?",
+		"DELETE_FILTER_TEXT": "A jeni të sigurt që ju doni të hiqni këtë filtër?",
+		"EXPORT_ERROR_TEXT": "Nuk ishte një çështje ndërsa eksportimin e këtij raporti në excel. Ju lutemi të provoni përsëri.",
+		"PAGINATION_ERROR_TEXT": "Hyri në faqe numri është jashtë rrezes",
+		"REPORTLANDINGPAGE": "#/raporte/generate-raporti"
+	},
+	"CREATE_OSC": {
+		"Please_enter_the_entity_name": "Ju lutemi shkruani subjektin emri:",
+		"OFFLINE_ENTITYSTUFF": "Subjekti që keni futur nuk ekziston në SYNC. Ju lutem update hyrjen tuaj",
+		"NOSEARCH_MATCH_ENTITYSTUFF": "Kërkimi juaj nuk përputhen në një entitet emrin në SYNC.",
+		"CONFIDENTIAL": "Konfidencial",
+		"SYNC_OPPORTUNITY_ID": "SYNC Mundësi ID:",
+		"SEARCH_BUTTON": "Kërko",
+		"OR": "ose",
+		"NO_SSO_BUTTON": "Nuk OSHS",
+		"OFFLINE_IRREVERSIBLE_TEXT": "Unë e kuptoj se ky veprim është i pakthyeshëm",
+		"SEARCH": {
+			"SELECT_OPPURTUNITY_ID": "Ju lutem zgjidhni një ID nga poshtë",
+			"NO_DATA_AVAILABLE": "Nuk ka të dhëna në dispozicion.",
+			"IRREVERSIBLE_ACTION": "Ky veprim është i pakthyeshëm.",
+			"CREATE_OPPORTUNITYID_SYNC": "Të krijojë Mundësi ID në SYNC",
+			"SELECT_OPPURTUNITY_ID_TEXT": "Mundësi ID zgjedhur ka një OSC të lidhura me të. Ju lutem zgjidhni një tjetër Mundësi e ID ose rishikimi ekzistuese OSC përmes Punës Radhë"
+		},
+		"NO_SSO_SEARCH": {
+			"NO_SSO": "Nuk OSHS",
+			"OPPORTUNITY_DESCRIPTION": "Ju lutemi shkruani mundësi përshkrimi:",
+			"BACK_BUTTON": "PRAPA",
+			"OK_BUTTON": "OK"
+		}
+	},
+	"COLLABORATIVE_REVIEW": {
+		"SCHEDULED": "Planifikuar",
+		"PENDING": "Në pritje",
+		"COMPLETED": "Përfunduar",
+		"CANCELLED": "Anulua",
+		"OPP_DATES": "OPP Datat",
+		"CIP_DATES": "PIK Datat",
+		"NOOFREV": "Numri I Komente:",
+		"ADDUPD_COLLABORATIVE_REVIEW": "{0} Bashkëpunuese Rishikimi",
+		"ADD": {
+			"ENTITY_NAME": "Emri I Subjektit",
+			"REVIEW_TYPE": "Rishikimi Lloji",
+			"OPPORTUNITY_DESCRIPTION": "Mundësi Përshkrim (OPP)",
+			"OPPORTUNITY_PARTNER": "Mundësi Partner",
+			"COLLABORATIVE_REVIEW_DATE": "Bashkëpunimi Shqyrtim Datën",
+			"FACILITATOR": "Ndërmjetësuesi",
+			"OUTSIDER": "I huaj",
+			"COLLABORATIVE_REVIEW_ATTENDEES": "Bashkëpunimi Rishikimi I Të Gjithë Të Pranishmit",
+			"REQUESTED_BY": "Të Kërkuara Nga",
+			"MEETING_TITLE": "Takimi Titullin(CIP)",
+			"OWNER": "Pronari"
+		}
+	},
+	"WORKQ_DETAILS": {
+		"POP_UP": {
+			"REASON": "Arsyeja",
+			"MANUAL_CLOSE": "Ky veprim është i pakthyeshëm.",
+			"OPP_CREATE": "Nuk ka OPP krijuar mundësi. A ju doni të krijoni një tani?",
+			"CIP_CREATE": "Nuk ka asnjë PIK të krijuar mundësi. A ju doni të krijoni një tani?",
+			"OSC_CREATE": "Nuk ka OSC të krijuar mundësi. A ju doni të krijoni një tani?",
+			"SCORE_CARD_CLOSE": "A jeni të sigurt që ju doni të mbyllni këtë Scorecard? Kjo nuk mund të zhbëhet.",
+			"PURSUIT_PLAN": "A jeni të sigurt që ju doni të mbyllni këtë Ndjekje Plan? Kjo nuk mund të zhbëhet."
+		}
+	},
+	"UNAUTHORIZED": {
+		"AUTH": "Ju nuk jeni i autorizuar për të hyrë në këtë faqe. Ju lutem kontaktoni ose Mundësinë partnerit ose Kombëtare, Qendra për Përkrahje në 1-800-KPMG-NDIHMË për ndihmë të mëtejshme."
+	},
+	"EMAIL_CREATE": {
+		"SUBJECT": " ka ndarë një MarketEDGE ",
+		"BODY": "ka dërguar një",
+		"SUCCESS_MSG": "Suksese! Tuaj të e-mail-i është dërguar."
+	},
+	"SEARCH_ENTITY": {
+		"SEARCH_E": "Kërkim Subjekti",
+		"RECENT_SEARCHES": "Kërkime Të Kohëve Të Fundit"
+	},
+	"LOGIN": {
+		"SIGN_IN": "Ju lutemi të regjistroheni në",
+		"USERNAME": "Emrin e përdoruesit",
+		"INVALID_USERNAME": "Të pavlefshme emrin e përdoruesit",
+		"PASSWORD": "Password",
+		"LOGIN_BUTTON": "Identifikohu"
+	},
+	"EXPANDED_DESCRIPTION": "Mundësi Përshkrimi:",
+	"NOTES": {
+		"MESSAGE": "Mesazh"
+	},
+	"ATTACHMENTS": {
+		"DELETE_FILE_ALERT_TEXT": "Jeni i sigurt që dëshironi të fshini këtë fotografi?",
+		"EXCEEDED_FILE_SIZE_ALERT_TEXT": "Shtojcë kalon 50 MB kufi.",
+		"ON_PROGRESS_ALERT_TEXT": "Ngarko është në progres. Ju lutem prisni për diku para ngarkimi në një tjetër fotografi.",
+		"ON_UPLOAD_FAILURE_ALERT_TEXT": "File nuk mund të jetë i ngarkuar. Ju lutem rigjykuar në ditë.",
+		"UNSUPPORTED_FILE_ALERT_TEXT": "Kjo është një pambështetur file type.",
+		"BUTTONS": {
+			"UPLOAD_BUTTON": "Ngarkoni bashkangjitje"
+		},
+		"LAST_UPDATED_BY": "Modifikimi i fundit nga",
+		"ON": "në"
+	},
+	"AUDIT_TRAIL": {
+		"TITLE": "Auditimi I Historisë",
+		"OPPURTUNITY_SCORECARD_CHANGES": "mundësi scorecard ndryshimet",
+		"OPPORTUNITY_PURSUIT_PLAN_CHANGES": "mundësi Ndjekjen e Planit të ndryshimeve",
+		"CIP_CHANGES": "Klienti Ndërveprimit Plani i ndryshimeve",
+		"DATE": "Data",
+		"SAVED_BY": "Të Shpëtuar Me Anë",
+		"VIEW_AS_PDF": "Shikoni si PDF"
+	},
+	"CLIENT_INTERACTION_PLAN": {
+		"SELECT_CIP": "Zgjidhni PIK",
+		"CLIENT_INTERACTION_DETAILS": "Klienti Ndërveprimit Detajet",
+		"OWNER": "Pronari",
+		"MEETING_DATE": "Takimi I Datës",
+		"MEETING_TITLE": "Takimi Titullin",
+		"STATUS": "Statusi",
+		"BI": {
+			"KNOWN_SYNC_RELATIONSHIP": "I Njohur Sync Marrëdhënie",
+			"OPP_BI_INFO": "OPP BI Tabela Info"
+		},
+		"CID": {
+			"VIEW_BRIEF_QUESTIONS": "Shikoni Pyetje Të Shkurtër"
+		}
+	},
+	"BEST_ACTION_DUE": {
+		"POP_UP": {
+			"NOT_ALLOWED": "Ju nuk janë të lejuar për të hyrë në këtë Rast. Ju lutemi, kontaktoni Ndjekje të Ekipit.",
+			"ACTION": "VEPRIMI: "
+		}
+	},
+	"EDGE_ESSENTIALS": {
+		"TITLE": "EDGEssentials"
+	}
+}

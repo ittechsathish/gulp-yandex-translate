@@ -1,0 +1,306 @@
+{
+	"COMMON": {
+		"MSG_UNDERDEV": "هذا ليس جزءا من هذا العرض",
+		"BLANK": "&nbsp ؛ ",
+		"OSCS": "فرصة بطاقات الأداء",
+		"OPPS": "فرصة السعي خطط",
+		"CIPS": "التفاعل مع العملاء خطط",
+		"WQ": "انتظار العمل",
+		"OSC": "فرصة Scorecard",
+		"OPP": "فرصة لتحقيق الخطة",
+		"CIP": "العميل التفاعل خطة",
+		"COLLABORATIVE_REVIEW": "التعاونية استعراض",
+		"My_OSC_OPP_CIP_Filter": "بلدي OSC/OPP/CIP",
+		"My_Invitations_Participation_Filter": "بلدي دعوات/الرياضات",
+		"My_Accounts_Filter": "حساباتي",
+		"Show_Closed_Items": "وتشمل العناصر المغلقة",
+		"DATA_UNAVAILABLE": "لا تتوفر بيانات عن الخيار المحدد.",
+		"SYNC_NOW": "مزامنة الآن",
+		"OFFLINE_ITEMS": "لديك حاليا البنود",
+		"OK": "طيب",
+		"CANCEL": "إلغاء",
+		"YES": "نعم",
+		"NO": "لا",
+		"BACK": "مرة أخرى",
+		"NEXT": "القادم",
+		"SUBMIT": "تقدم",
+		"My_Upcoming_Meetings": "بلدي الاجتماعات القادمة",
+		"My_Best_Actions_Due": "أفضل الإجراءات الواجب",
+		"My_Expected_Decision_Dates": "بلدي القرار المتوقع التواريخ",
+		"PAGE_NOT_FOUND": "هذه الصفحة قيد التطوير",
+		"DOWNLOAD": "تنزيل التقرير",
+		"NO_EMAIL_CLIENT": "أي عميل البريد الإلكتروني الموجودة على هذا الكمبيوتر. الرجاء تثبيت Microsoft Outlook أو Mozilla Thunderbird."
+	},
+	"LANDING": {
+		"GOOD": "جيد",
+		"MORNING": "صباح",
+		"EVENING": "مساء",
+		"AFTERNOON": "بعد الظهر",
+		"CREATE": {
+			"TITLE": "إنشاء",
+			"OSC": "فرصة بطاقات الأداء (OSC)",
+			"OPP": "فرصة السعي خطط (OPP)",
+			"CIP": "التفاعل مع العملاء خطط (CIP)",
+			"CRD": "التعاونية استعراض المواعيد"
+		},
+		"UPCOMING": {
+			"TITLE": "بلدي بنود العمل",
+			"MEETING": "الاجتماعات القادمة",
+			"Best_Actions_Due": "أفضل الإجراءات الواجب",
+			"Expected_Decision_Dates_Approaching": "القرار المتوقع التواريخ"
+		},
+		"WORKQ": {
+			"TITLE": "انتظار العمل"
+		},
+		"REVIEW": {
+			"TITLE": "التعاونية استعراض"
+		}
+	},
+	"OSC_DETAILS": {
+		"Single_Sales_Objective": "واحد مبيعات الهدف",
+		"Practice_service_type": "الممارسة: نوع الخدمة",
+		"Opportunity_description": "فرصة الوصف",
+		"estimated_total_fees": "يقدر مجموع الرسوم",
+		"Key_account_tier": "مفتاح حساب الطبقة",
+		"original": "الأصلي",
+		"current": "الحالي",
+		"Expected_decision_date": "القرار المتوقع التاريخ",
+		"pursuit_stage": "السعي المرحلة",
+		"probability_of_success": "احتمال النجاح",
+		"created_by": "تم إنشاؤها من قبل",
+		"last_updated_by": "آخر تحديث من قبل",
+		"Latest_Collaborative_Review_date": "أحدث التعاونية مراجعة تاريخ",
+		"Collaborative_Review_Summary": "التعاونية الاستعراض الموجز",
+		"Lead_Account_Partner": "تؤدي حساب الشريك",
+		"opportunity_Partner": "فرصة شريك",
+		"Outcome": "النتيجة:",
+		"System_Close_Date": "النظام بالقرب من التاريخ:",
+		"original_score": "النتيجة الأصلية:",
+		"current_score": "النتيجة الحالية:",
+		"SAVE": "حفظ",
+		"Opportunity_ID": "فرصة ID",
+		"SETTINGS": {
+			"Attachments": "المرفقات",
+			"Notes": "ملاحظات",
+			"Email": "البريد الإلكتروني",
+			"Audit_History": "مراجعة التاريخ",
+			"Print": "طباعة/PDF"
+		},
+		"TABLE_HEADING": {
+			"ITEM": "البند",
+			"SCORECARD_CRITERIA": "معايير الأداء",
+			"POINTS": "نقاط",
+			"RESPONSE": "رد"
+		},
+		"CONFIRM": {
+			"OFFLINE_OSC_CONFIRM_TEXT": "هل أنت متأكد من أنك تريد حذف هذا الملف ؟ ",
+			"NAVIGATION_CONFIRM_TEXT": "هل تريد حفظ التغييرات الخاصة بك قبل أن تبحر بعيدا ؟ جميع التغييرات غير المحفوظة سوف تضيع.",
+			"OFFLINE_NOTIFICATION": "تعمل حاليا متواجد حاليا. التغييرات سيتم تحديث تلقائيا عند إعادة الاتصال KPMG الخادم.",
+			"SAVE_SCORE_CONFIRM_TEXT": "قمت بتحديث هذا OSC. ونتيجة لذلك, هل تريد تغيير القرار المتوقع التاريخ السعي المرحلة و/أو احتمال النجاح لضمان المحاذاة ؟ هذه التحديثات سوف تنعكس في المزامنة.",
+			"UNCHANGED_TEXT": "لم تقم بإجراء أية تغييرات تحتاج إلى حفظ.",
+			"CREATE_NAVIGATION_TEXT": "ليس لديك OSC التي تم إنشاؤها حتى الآن. هل تريد إنشاء واحدة الآن ؟ ",
+			"SCORE_CARD_CREATE_NAVIGATE_FROM_SYNC_CONFIRM_TEXT": " ليس لديك OSC خلقت إلا من أجل هذه الفرصة. هل تريد إنشاء واحدة الآن ؟ ",
+			"SCORE_CARD_CREATE_NAVIGATE_FROM_SYNC_LOCKED_TEXT": " فرصة مؤمن من قبل مستخدم آخر. الرجاء استخدام فرصة أخرى لخلق OSC.",
+			"EMAIL_CLIENT_DEFAULT_TEXT": "يرجى إجراء بعض التغييرات على المستند قبل حفظه.",
+			"OPPURTUNITY_CREATE_CONFIRM_TEXT": "لا يوجد OSC خلق الفرصة. هل تريد إنشاء واحدة الآن ؟ ",
+			"OPPURTUNITY_ALREADY_EXIST": "OSC/OPP وقد تم بالفعل إنشاء هذه الفرصة الهوية في النظام. يرجى إعادة المحاولة فرصة أخرى معرف أو تحديث القائمة OSC/OPP."
+		}
+	},
+	"OPP_DETAILS": {
+		"ADEQUACY_OF_CURRENT_POSITION": "كفاية الموقف الحالي",
+		"EUPHORIA": "نشوة",
+		"GREAT": "رائعة",
+		"SECURE": "آمنة",
+		"COMFORT": "الراحة",
+		"OK": "طيب",
+		"CONCERN": "القلق",
+		"DISCOMFORT": "الراحة",
+		"WORRY": "تقلق",
+		"FEAR": "الخوف",
+		"PANIC": "الذعر",
+		"CURRENT_SPEND": "الإنفاق الحالي",
+		"TOTAL_SPEND": "إجمالي الإنفاق",
+		"TOTAL_OPPORTUNITY_VALUE": "مجموع الفرصة القيمة",
+		"AUDIT_CLIENT_FLAG": "مراجعة العميل العلم",
+		"COMPETITIVE_ALTERNATIVES": "بدائل تنافسية:",
+		"MY_POSITION": "موقفي مقابل المنافسة:",
+		"TIMING_PRIORITIES": "توقيت الأولويات:",
+		"COMPETITOR_NAMES": "منافس الأسماء:",
+		"BUYING_INFLUENCES_INV": "شراء التأثيرات المشاركة",
+		"BUYING_INFLUENCES": "شراء التأثيرات",
+		"NAME": "اسم",
+		"TITLE": "العنوان",
+		"LOCATION": "الموقع",
+		"ROLE": "دور",
+		"DEGREE_INFLUENCE": "درجة التأثير",
+		"MODE": "وضع",
+		"RESULTS_ORG": "النتائج (منظمة)",
+		"WINS": "انتصارات (شخصية مدفوعة)",
+		"RATING": "تصنيف (-5 إلى +5)",
+		"EVIDENCE_TO_SUPPORT_YOUR_RATING": "الأدلة لدعم تقييمك",
+		"CONFIRM": {
+			"OFFLINE": "كنت متواجد حاليا. الوثيقة سيتم تحديث تلقائيا بمجرد الاتصال بالإنترنت.",
+			"SAVE_SCORE": "قمت بتحديث هذا OPP. ونتيجة لذلك, هل تريد تغيير القرار المتوقع التاريخ السعي المرحلة و/أو احتمال النجاح لضمان المحاذاة ؟ هذه التحديثات سوف تنعكس في المزامنة.",
+			"UNCHANGED": "يرجى إجراء بعض التغييرات على المستند قبل حفظه.",
+			"CREATE": "حاليا لا توجد فرصة لتحقيق خطة موجود. هل تريد إنشاء OPP على هذه الفرصة ؟ "
+		}
+	},
+	"FOOTER": {
+		"TITLE": "بواسطة KTech",
+		"COPYTEXT": "&copy; 2015 ميلر Heiman, Inc. جميع الحقوق محفوظة.",
+		"WARNING": "لوائح الحكومة تضع قيودا معينة على المقاولين أثناء عملية الشراء. هذه اللوائح و السياسات ذات الصلة دائما تأخذ الأسبقية على بطاقة المعايير. على وجه الخصوص, وهذا ينطبق على البنود 6 و 7 و 12 و 19."
+	},
+	"PAGENOTFOUND": {
+		"BODY": "هذه الصفحة قيد التطوير"
+	},
+	"PAGE_ERROR": {
+		"BAD_REQUEST": "لإنشاء تقرير جديد ، انقر فوق الرمز+. لتحرير تقرير موجود ، انقر فوق أدوات>تحرير الرمز."
+	},
+	"REPORTS": {
+		"TITLE": "تقاريري",
+		"VIEW_SAVED_REPORTS": "عرض التقارير المحفوظة",
+		"APPLIED_FILTERS": "تطبيق الفلاتر",
+		"BUTTONS": {
+			"BACK_TO_EDIT": "العودة إلى تحرير",
+			"SAVE_FILTERS": "حفظ الفلاتر",
+			"EXPORT": "التصدير",
+			"EMAIL": "البريد الإلكتروني",
+			"APPLY_FILTER": "تطبيق عامل تصفية"
+		},
+		"SELECT_ALL_SUBSELECTION": "حدد جميع الفرعية الاختيار ",
+		"NO_APPLIED_FILTERS_FOUND": "لا تطبيق الفلاتر وجدت",
+		"FILTERS": "المرشحات",
+		"CREATE_NEW": "إنشاء جديد",
+		"DELETE_CONFIRM_TEXT": "هل أنت متأكد من أنك تريد حذف هذا التقرير ؟ ",
+		"DELETE_FILTER_TEXT": "هل أنت متأكد من أنك تريد إزالة هذا الفلتر ؟ ",
+		"EXPORT_ERROR_TEXT": "كان هناك مشكلة عند تصدير التقرير إلى excel. يرجى المحاولة مرة أخرى.",
+		"PAGINATION_ERROR_TEXT": "دخلت صفحة رقم خارج النطاق",
+		"REPORTLANDINGPAGE": "#/تقارير/توليد-تقرير"
+	},
+	"CREATE_OSC": {
+		"Please_enter_the_entity_name": "يرجى إدخال اسم الكيان:",
+		"OFFLINE_ENTITYSTUFF": "الكيان الذي أدخلته غير موجود في المزامنة. يرجى تحديث دخول",
+		"NOSEARCH_MATCH_ENTITYSTUFF": "البحث لم يطابق اسم الكيان في المزامنة.",
+		"CONFIDENTIAL": "سرية",
+		"SYNC_OPPORTUNITY_ID": "مزامنة الفرصة ID:",
+		"SEARCH_BUTTON": "البحث",
+		"OR": "أو",
+		"NO_SSO_BUTTON": "لا SSO",
+		"OFFLINE_IRREVERSIBLE_TEXT": "أنا أفهم أن هذا العمل لا رجعة فيه",
+		"SEARCH": {
+			"SELECT_OPPURTUNITY_ID": "يرجى تحديد هوية من تحت",
+			"NO_DATA_AVAILABLE": "لا توجد بيانات متاحة.",
+			"IRREVERSIBLE_ACTION": "هذا العمل لا رجعة فيه.",
+			"CREATE_OPPORTUNITYID_SYNC": "خلق فرصة معرف في المزامنة",
+			"SELECT_OPPURTUNITY_ID_TEXT": "فرصة ID المحدد له OSC المرتبطة به. يرجى تحديد فرصة أخرى معرف أو مراجعة القائمة OSC من خلال عمل قائمة الانتظار"
+		},
+		"NO_SSO_SEARCH": {
+			"NO_SSO": "لا SSO",
+			"OPPORTUNITY_DESCRIPTION": "يرجى إدخال الفرصة وصف:",
+			"BACK_BUTTON": "مرة أخرى",
+			"OK_BUTTON": "طيب"
+		}
+	},
+	"COLLABORATIVE_REVIEW": {
+		"SCHEDULED": "المقرر",
+		"PENDING": "في انتظار",
+		"COMPLETED": "الانتهاء",
+		"CANCELLED": "إلغاء",
+		"OPP_DATES": "OPP التواريخ",
+		"CIP_DATES": "CIP التواريخ",
+		"NOOFREV": "عدد التقييمات:",
+		"ADDUPD_COLLABORATIVE_REVIEW": "{0} التعاونية استعراض",
+		"ADD": {
+			"ENTITY_NAME": "اسم الكيان",
+			"REVIEW_TYPE": "نوع المراجعة",
+			"OPPORTUNITY_DESCRIPTION": "فرصة الوصف (OPP)",
+			"OPPORTUNITY_PARTNER": "فرصة شريك",
+			"COLLABORATIVE_REVIEW_DATE": "التعاونية مراجعة تاريخ",
+			"FACILITATOR": "الميسر",
+			"OUTSIDER": "دخيل",
+			"COLLABORATIVE_REVIEW_ATTENDEES": "التعاونية استعراض الحضور",
+			"REQUESTED_BY": "طلب",
+			"MEETING_TITLE": "عنوان الاجتماع(CIP)",
+			"OWNER": "مالك"
+		}
+	},
+	"WORKQ_DETAILS": {
+		"POP_UP": {
+			"REASON": "السبب",
+			"MANUAL_CLOSE": "هذا العمل لا رجعة فيه.",
+			"OPP_CREATE": "لا يوجد OPP خلق الفرصة. هل تريد إنشاء واحدة الآن ؟ ",
+			"CIP_CREATE": "لا يوجد CIP خلق الفرصة. هل تريد إنشاء واحدة الآن ؟ ",
+			"OSC_CREATE": "لا يوجد OSC خلق الفرصة. هل تريد إنشاء واحدة الآن ؟ ",
+			"SCORE_CARD_CLOSE": "هل أنت متأكد من أنك تريد إغلاق هذا الأداء? هذا لا يمكن التراجع عنها.",
+			"PURSUIT_PLAN": "هل أنت متأكد من أنك تريد إغلاق هذا السعي الخطة ؟ هذا لا يمكن التراجع عنها."
+		}
+	},
+	"UNAUTHORIZED": {
+		"AUTH": "غير مصرح لك بدخول هذه الصفحة. يرجى الاتصال إما الفرصة شريك أو الوطنية مركز الدعم في 1-800-KPMG-مساعدة للحصول على مزيد من المساعدة."
+	},
+	"EMAIL_CREATE": {
+		"SUBJECT": " وقد تقاسم MarketEDGE ",
+		"BODY": "وقد أرسلت لك رسالة",
+		"SUCCESS_MSG": "النجاح! البريد الإلكتروني يتم إرسالها."
+	},
+	"SEARCH_ENTITY": {
+		"SEARCH_E": "البحث الكيان",
+		"RECENT_SEARCHES": "عمليات البحث الأخيرة"
+	},
+	"LOGIN": {
+		"SIGN_IN": "يرجى تسجيل الدخول",
+		"USERNAME": "اسم المستخدم",
+		"INVALID_USERNAME": "اسم المستخدم غير صالح",
+		"PASSWORD": "كلمة المرور",
+		"LOGIN_BUTTON": "تسجيل الدخول"
+	},
+	"EXPANDED_DESCRIPTION": "الفرصة وصف:",
+	"NOTES": {
+		"MESSAGE": "الرسالة"
+	},
+	"ATTACHMENTS": {
+		"DELETE_FILE_ALERT_TEXT": "هل أنت متأكد من أنك تريد حذف هذا الملف ؟ ",
+		"EXCEEDED_FILE_SIZE_ALERT_TEXT": "المرفق يتجاوز 50 ميغابايت.",
+		"ON_PROGRESS_ALERT_TEXT": "تحميل الملف في التقدم. يرجى الانتظار لبعض الوقت قبل تحميل ملف آخر.",
+		"ON_UPLOAD_FAILURE_ALERT_TEXT": "الملف لا يمكن تحميله. يرجى إعادة المحاولة في وقت ما.",
+		"UNSUPPORTED_FILE_ALERT_TEXT": "هذا هو نوع ملف غير متوافق.",
+		"BUTTONS": {
+			"UPLOAD_BUTTON": "تحميل المرفق"
+		},
+		"LAST_UPDATED_BY": "آخر تحديث من قبل",
+		"ON": "على"
+	},
+	"AUDIT_TRAIL": {
+		"TITLE": "مراجعة التاريخ",
+		"OPPURTUNITY_SCORECARD_CHANGES": "فرصة بطاقة الأداء التغييرات",
+		"OPPORTUNITY_PURSUIT_PLAN_CHANGES": "فرصة السعي خطة التغييرات",
+		"CIP_CHANGES": "العميل التفاعل خطة التغييرات",
+		"DATE": "تاريخ",
+		"SAVED_BY": "حفظها من قبل",
+		"VIEW_AS_PDF": "عرض PDF"
+	},
+	"CLIENT_INTERACTION_PLAN": {
+		"SELECT_CIP": "حدد CIP",
+		"CLIENT_INTERACTION_DETAILS": "التفاعل مع العملاء التفاصيل",
+		"OWNER": "مالك",
+		"MEETING_DATE": "تاريخ الاجتماع",
+		"MEETING_TITLE": "عنوان الاجتماع",
+		"STATUS": "حالة",
+		"BI": {
+			"KNOWN_SYNC_RELATIONSHIP": "معروف علاقة المزامنة",
+			"OPP_BI_INFO": "مقابل ثنائية الجدول معلومات عن الفندق"
+		},
+		"CID": {
+			"VIEW_BRIEF_QUESTIONS": "عرض مختصر الأسئلة"
+		}
+	},
+	"BEST_ACTION_DUE": {
+		"POP_UP": {
+			"NOT_ALLOWED": "لا يسمح لك بدخول هذه الفرصة. يرجى الاتصال الخاص بك السعي إلى الفريق.",
+			"ACTION": "العمل: "
+		}
+	},
+	"EDGE_ESSENTIALS": {
+		"TITLE": "EDGEssentials"
+	}
+}
