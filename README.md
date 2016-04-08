@@ -2,8 +2,28 @@
 
 Translate English JSON file to other language json file .
 
-
 ## Usage
+
+1.create a json file which contains english string.
+
+    //en.json
+    {
+        word : 'search',
+        nested: {
+            word2: "some words here"
+        },
+        "word3": {
+            nested2: {
+                word4: "need to translate"
+            }
+        }
+    }
+
+Note: You can add valid json file or normal javascript json also.
+
+2.Create Yandex API Key in https://tech.yandex.com/keys/get/?service=trnsl
+
+3.Create gulpfile.js
 
     var gulp = require('gulp');
     var translate = require('gulp-yandex-translate');
@@ -21,4 +41,9 @@ Translate English JSON file to other language json file .
    
       
 ### Options
-  
+
+{
+    yandexAPIKey : Create a yandex api key - is string type
+    to : string or array of strings to specify the destination language
+}
+
