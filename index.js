@@ -1,11 +1,11 @@
 var through = require('through2');
 var gutil = require('gulp-util');
 var fs = require('fs');
-var translateModule = require('yandex-translate');
 var $q = require('q');
 var jsonic = require('jsonic');
 var _ = require('lodash');
-
+var translateModule = require('yandex-translate');
+var translate = null;
 
 module.exports = function(options) {
 
@@ -37,12 +37,13 @@ module.exports = function(options) {
             }
         }
 
-        var translate = null;
+
 
         if (!options.yandexAPIKey) {
             this.emit('error', new gutil.PluginError('gulp-yandex-translate', 'Yandex API Key is Missing'));
         }
         else {
+
             translate = translateModule(options.yandexAPIKey);
         }
 
@@ -105,7 +106,9 @@ module.exports = function(options) {
                 var defer = $q.defer();
 
                 translate.translate(val.value, { to: language }, function(err, res) {
-                    val.ref[val.key] = res.text[0];
+                    if (res && res.text[0]) {
+                        val.ref[val.key] = res.text[0];
+                    }
 
                     startingTranslatingLength++;
 

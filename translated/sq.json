@@ -10,7 +10,7 @@
 		"OPP": "Mundësi Kërkimi Të Planit Të",
 		"CIP": "Klienti Ndërveprimit Të Planit",
 		"COLLABORATIVE_REVIEW": "Bashkëpunimi Komente",
-		"My_OSC_OPP_CIP_Filter": "Im OSC/OPP/PIK",
+		"My_OSC_OPP_CIP_Filter": "My OSC/OPP/CIP",
 		"My_Invitations_Participation_Filter": "Im Ftesat/Ndjekjet",
 		"My_Accounts_Filter": "Llogaritë E Mia",
 		"Show_Closed_Items": "Përfshijnë Të Mbyllura Artikuj",
@@ -39,9 +39,9 @@
 		"CREATE": {
 			"TITLE": "Krijuar",
 			"OSC": "Mundësi Scorecards (OSC)",
-			"OPP": "Mundësi e Ndjekjen e Planeve (OPP)",
+			"OPP": "Opportunity Pursuit Plans (OPP)",
 			"CIP": "Klienti Ndërveprimit Planet (CIP)",
-			"CRD": "Bashkëpunimi Shqyrtim Datat"
+			"CRD": "Collaborative Review Dates"
 		},
 		"UPCOMING": {
 			"TITLE": "Im Veprim",
@@ -53,7 +53,7 @@
 			"TITLE": "Puna Radhë"
 		},
 		"REVIEW": {
-			"TITLE": "Bashkëpunimi Komente"
+			"TITLE": "Collaborative Reviews"
 		}
 	},
 	"OSC_DETAILS": {
@@ -119,93 +119,93 @@
 		"FEAR": "Frika",
 		"PANIC": "Panik",
 		"CURRENT_SPEND": "Aktuale Të Shpenzuar",
-		"TOTAL_SPEND": "Totale Të Shpenzuar",
+		"TOTAL_SPEND": "Total Spend",
 		"TOTAL_OPPORTUNITY_VALUE": "Gjithsej Mundësi Vlera",
 		"AUDIT_CLIENT_FLAG": "Auditimit Klienti Flamurit",
 		"COMPETITIVE_ALTERNATIVES": "Konkurruese Alternativa:",
-		"MY_POSITION": "Pozicioni im kundrejt Konkurrencës:",
-		"TIMING_PRIORITIES": "Koha për Prioritetet:",
-		"COMPETITOR_NAMES": "Konkurrenti Emrat:",
+		"MY_POSITION": "My Position vs. Competition:",
+		"TIMING_PRIORITIES": "Timing for Priorities:",
+		"COMPETITOR_NAMES": "Competitor Names:",
 		"BUYING_INFLUENCES_INV": "Blerja E Ndikimeve Të Përfshirë",
-		"BUYING_INFLUENCES": "Blerja E Ndikimeve Të",
-		"NAME": "Emri",
+		"BUYING_INFLUENCES": "Buying Influences",
+		"NAME": "Name",
 		"TITLE": "Titulli",
 		"LOCATION": "Location",
 		"ROLE": "Roli",
-		"DEGREE_INFLUENCE": "Shkalla e Ndikimit",
+		"DEGREE_INFLUENCE": "Degree of Influence",
 		"MODE": "Mode",
-		"RESULTS_ORG": "Rezultatet (Organizatë)",
-		"WINS": "Fiton (Personale Dhe Të Nxitur Nga)",
+		"RESULTS_ORG": "Results (Organization)",
+		"WINS": "Wins (Personal And Driven By)",
 		"RATING": "Rating (-5 to +5)",
-		"EVIDENCE_TO_SUPPORT_YOUR_RATING": "Prova për të Mbështetur tuaj rating",
+		"EVIDENCE_TO_SUPPORT_YOUR_RATING": "Evidence to Support your rating",
 		"CONFIRM": {
-			"OFFLINE": "Ju jeni offline. Dokumenti do të rifreskohet automatikisht sapo ju të lidheni me Internet.",
+			"OFFLINE": "You are offline. The document will be updated automatically once you connect to Internet.",
 			"SAVE_SCORE": "Ju kam përditësuar këtë OPP. Si rezultat i kësaj, ju doni të ndryshoni Pritur Vendimin e Datës, Ndjekje Skenë dhe/ose Mundësia e Suksesit për të siguruar nënshtrimin? Këto përditësime do të pasqyrohen në SYNC.",
-			"UNCHANGED": "Ju lutemi të bëjë disa ndryshime në dokumentin e para kursimit.",
-			"CREATE": "Aktualisht nuk ka Mundësi Ndjekje Plan ekziston. A doni për të krijuar një OPP për këtë mundësi?"
+			"UNCHANGED": "Please make some changes to the document before saving it.",
+			"CREATE": "Currently no Opportunity Pursuit Plan exists. Do you want to create an OPP for this opportunity?"
 		}
 	},
 	"FOOTER": {
 		"TITLE": "Powered by KTech",
-		"COPYTEXT": "&copy; 2015 Miller Heiman, Inc. Të gjitha të drejtat janë të rezervuara.",
-		"WARNING": "Rregulloret e qeverisë vendin kufizime të caktuara në kontraktorët gjatë procesit të prokurimit. Këto rregullore dhe ynë lidhur me politikat gjithmonë të marrë përparësi mbi scorecard kriteret. Në veçanti, kjo vlen për sendet 6, 7, 12 dhe 19."
+		"COPYTEXT": "&copy; 2015 Miller Heiman, Inc. All rights reserved.",
+		"WARNING": "Government regulations place certain restrictions on contractors during the procurement process. These regulations and our related policies always take precedence over scorecard criteria. In particular, this applies to items 6, 7, 12 and 19."
 	},
 	"PAGENOTFOUND": {
-		"BODY": "Kjo faqe është në zhvillim e sipër"
+		"BODY": "This page is under development"
 	},
 	"PAGE_ERROR": {
-		"BAD_REQUEST": "Për të krijuar një raport të ri, kliko butonin + icon. Për të redaktoni raport, kliko Tools>Ndrysho ikonën."
+		"BAD_REQUEST": "To create a new report, click the + icon. To edit an existing report, click the Tools>Edit icon."
 	},
 	"REPORTS": {
-		"TITLE": "Raportet E Mia",
-		"VIEW_SAVED_REPORTS": "Pamja E Ruhen Raportet E",
-		"APPLIED_FILTERS": "Aplikuar Filtrat",
+		"TITLE": "My Reports",
+		"VIEW_SAVED_REPORTS": "View Saved Reports",
+		"APPLIED_FILTERS": "Applied Filters",
 		"BUTTONS": {
-			"BACK_TO_EDIT": "Mbrapa për të Redaktuar",
-			"SAVE_FILTERS": "Ruaj Filtrat",
-			"EXPORT": "Eksporti",
+			"BACK_TO_EDIT": "Back to Edit",
+			"SAVE_FILTERS": "Save Filters",
+			"EXPORT": "Export",
 			"EMAIL": "Email",
-			"APPLY_FILTER": "Filtri Zbatohet"
+			"APPLY_FILTER": "Apply Filter"
 		},
-		"SELECT_ALL_SUBSELECTION": "Zgjidhni të Gjitha Nën-përzgjedhja ",
-		"NO_APPLIED_FILTERS_FOUND": "Nuk ka aplikuar filtra të gjetur",
-		"FILTERS": "Filtrat",
-		"CREATE_NEW": "Të Krijuar Të Reja",
-		"DELETE_CONFIRM_TEXT": "Jeni i sigurt se doni të fshihet ky raport?",
-		"DELETE_FILTER_TEXT": "A jeni të sigurt që ju doni të hiqni këtë filtër?",
-		"EXPORT_ERROR_TEXT": "Nuk ishte një çështje ndërsa eksportimin e këtij raporti në excel. Ju lutemi të provoni përsëri.",
-		"PAGINATION_ERROR_TEXT": "Hyri në faqe numri është jashtë rrezes",
-		"REPORTLANDINGPAGE": "#/raporte/generate-raporti"
+		"SELECT_ALL_SUBSELECTION": "Select All Sub-selection ",
+		"NO_APPLIED_FILTERS_FOUND": "No applied filters found",
+		"FILTERS": "Filters",
+		"CREATE_NEW": "Create New",
+		"DELETE_CONFIRM_TEXT": "Are you sure you want to delete this report?",
+		"DELETE_FILTER_TEXT": "Are you sure you want to remove this filter?",
+		"EXPORT_ERROR_TEXT": "There was an issue while exporting this report to excel. Please try again.",
+		"PAGINATION_ERROR_TEXT": "Entered page number is out of range",
+		"REPORTLANDINGPAGE": "#/reports/generate-report"
 	},
 	"CREATE_OSC": {
-		"Please_enter_the_entity_name": "Ju lutemi shkruani subjektin emri:",
-		"OFFLINE_ENTITYSTUFF": "Subjekti që keni futur nuk ekziston në SYNC. Ju lutem update hyrjen tuaj",
-		"NOSEARCH_MATCH_ENTITYSTUFF": "Kërkimi juaj nuk përputhen në një entitet emrin në SYNC.",
-		"CONFIDENTIAL": "Konfidencial",
-		"SYNC_OPPORTUNITY_ID": "SYNC Mundësi ID:",
-		"SEARCH_BUTTON": "Kërko",
-		"OR": "ose",
+		"Please_enter_the_entity_name": "Please enter the entity name:",
+		"OFFLINE_ENTITYSTUFF": "The entity you entered does not exist in SYNC. Please update your entry",
+		"NOSEARCH_MATCH_ENTITYSTUFF": "Your search did not match an entity name in SYNC.",
+		"CONFIDENTIAL": "Confidential",
+		"SYNC_OPPORTUNITY_ID": "SYNC Opportunity ID:",
+		"SEARCH_BUTTON": "Search",
+		"OR": "or",
 		"NO_SSO_BUTTON": "Nuk OSHS",
-		"OFFLINE_IRREVERSIBLE_TEXT": "Unë e kuptoj se ky veprim është i pakthyeshëm",
+		"OFFLINE_IRREVERSIBLE_TEXT": "I understand that this action is irreversible",
 		"SEARCH": {
 			"SELECT_OPPURTUNITY_ID": "Ju lutem zgjidhni një ID nga poshtë",
 			"NO_DATA_AVAILABLE": "Nuk ka të dhëna në dispozicion.",
-			"IRREVERSIBLE_ACTION": "Ky veprim është i pakthyeshëm.",
-			"CREATE_OPPORTUNITYID_SYNC": "Të krijojë Mundësi ID në SYNC",
-			"SELECT_OPPURTUNITY_ID_TEXT": "Mundësi ID zgjedhur ka një OSC të lidhura me të. Ju lutem zgjidhni një tjetër Mundësi e ID ose rishikimi ekzistuese OSC përmes Punës Radhë"
+			"IRREVERSIBLE_ACTION": "This action is irreversible.",
+			"CREATE_OPPORTUNITYID_SYNC": "Create Opportunity ID in SYNC",
+			"SELECT_OPPURTUNITY_ID_TEXT": "The opportunity ID selected has an OSC associated with it. Please select another Opportunity ID or review the existing OSC through Work Queue"
 		},
 		"NO_SSO_SEARCH": {
-			"NO_SSO": "Nuk OSHS",
-			"OPPORTUNITY_DESCRIPTION": "Ju lutemi shkruani mundësi përshkrimi:",
-			"BACK_BUTTON": "PRAPA",
+			"NO_SSO": "No SSO",
+			"OPPORTUNITY_DESCRIPTION": "Please enter the opportunity description:",
+			"BACK_BUTTON": "BACK",
 			"OK_BUTTON": "OK"
 		}
 	},
 	"COLLABORATIVE_REVIEW": {
-		"SCHEDULED": "Planifikuar",
-		"PENDING": "Në pritje",
+		"SCHEDULED": "Scheduled",
+		"PENDING": "Pending",
 		"COMPLETED": "Përfunduar",
-		"CANCELLED": "Anulua",
+		"CANCELLED": "Cancelled",
 		"OPP_DATES": "OPP Datat",
 		"CIP_DATES": "PIK Datat",
 		"NOOFREV": "Numri I Komente:",
@@ -215,88 +215,88 @@
 			"REVIEW_TYPE": "Rishikimi Lloji",
 			"OPPORTUNITY_DESCRIPTION": "Mundësi Përshkrim (OPP)",
 			"OPPORTUNITY_PARTNER": "Mundësi Partner",
-			"COLLABORATIVE_REVIEW_DATE": "Bashkëpunimi Shqyrtim Datën",
-			"FACILITATOR": "Ndërmjetësuesi",
-			"OUTSIDER": "I huaj",
-			"COLLABORATIVE_REVIEW_ATTENDEES": "Bashkëpunimi Rishikimi I Të Gjithë Të Pranishmit",
-			"REQUESTED_BY": "Të Kërkuara Nga",
-			"MEETING_TITLE": "Takimi Titullin(CIP)",
+			"COLLABORATIVE_REVIEW_DATE": "Collaborative Review Date",
+			"FACILITATOR": "Facilitator",
+			"OUTSIDER": "Outsider",
+			"COLLABORATIVE_REVIEW_ATTENDEES": "Collaborative Review Attendees",
+			"REQUESTED_BY": "Requested By",
+			"MEETING_TITLE": "Meeting Title(CIP)",
 			"OWNER": "Pronari"
 		}
 	},
 	"WORKQ_DETAILS": {
 		"POP_UP": {
-			"REASON": "Arsyeja",
-			"MANUAL_CLOSE": "Ky veprim është i pakthyeshëm.",
-			"OPP_CREATE": "Nuk ka OPP krijuar mundësi. A ju doni të krijoni një tani?",
-			"CIP_CREATE": "Nuk ka asnjë PIK të krijuar mundësi. A ju doni të krijoni një tani?",
-			"OSC_CREATE": "Nuk ka OSC të krijuar mundësi. A ju doni të krijoni një tani?",
-			"SCORE_CARD_CLOSE": "A jeni të sigurt që ju doni të mbyllni këtë Scorecard? Kjo nuk mund të zhbëhet.",
-			"PURSUIT_PLAN": "A jeni të sigurt që ju doni të mbyllni këtë Ndjekje Plan? Kjo nuk mund të zhbëhet."
+			"REASON": "Reason",
+			"MANUAL_CLOSE": "This action is irreversible.",
+			"OPP_CREATE": "There is no OPP created for the opportunity. Do you want to create one now?",
+			"CIP_CREATE": "There is no CIP created for the opportunity. Do you want to create one now?",
+			"OSC_CREATE": "There is no OSC created for the opportunity. Do you want to create one now?",
+			"SCORE_CARD_CLOSE": "Are you sure you want to close this Scorecard? This cannot be undone.",
+			"PURSUIT_PLAN": "Are you sure you want to close this Pursuit Plan? This cannot be undone."
 		}
 	},
 	"UNAUTHORIZED": {
-		"AUTH": "Ju nuk jeni i autorizuar për të hyrë në këtë faqe. Ju lutem kontaktoni ose Mundësinë partnerit ose Kombëtare, Qendra për Përkrahje në 1-800-KPMG-NDIHMË për ndihmë të mëtejshme."
+		"AUTH": "You are not authorized to access this page. Please contact either the Opportunity partner or the National Support Center at 1-800-KPMG-HELP for further assistance."
 	},
 	"EMAIL_CREATE": {
-		"SUBJECT": " ka ndarë një MarketEDGE ",
-		"BODY": "ka dërguar një",
-		"SUCCESS_MSG": "Suksese! Tuaj të e-mail-i është dërguar."
+		"SUBJECT": " has shared a MarketEDGE ",
+		"BODY": "has sent you an",
+		"SUCCESS_MSG": "Success! Your e-mail is sent."
 	},
 	"SEARCH_ENTITY": {
-		"SEARCH_E": "Kërkim Subjekti",
-		"RECENT_SEARCHES": "Kërkime Të Kohëve Të Fundit"
+		"SEARCH_E": "Search Entity",
+		"RECENT_SEARCHES": "Recent Searches"
 	},
 	"LOGIN": {
-		"SIGN_IN": "Ju lutemi të regjistroheni në",
-		"USERNAME": "Emrin e përdoruesit",
-		"INVALID_USERNAME": "Të pavlefshme emrin e përdoruesit",
+		"SIGN_IN": "Please sign in",
+		"USERNAME": "Username",
+		"INVALID_USERNAME": "Invalid username",
 		"PASSWORD": "Password",
-		"LOGIN_BUTTON": "Identifikohu"
+		"LOGIN_BUTTON": "Login"
 	},
-	"EXPANDED_DESCRIPTION": "Mundësi Përshkrimi:",
+	"EXPANDED_DESCRIPTION": "Opportunity Description:",
 	"NOTES": {
-		"MESSAGE": "Mesazh"
+		"MESSAGE": "Message"
 	},
 	"ATTACHMENTS": {
-		"DELETE_FILE_ALERT_TEXT": "Jeni i sigurt që dëshironi të fshini këtë fotografi?",
-		"EXCEEDED_FILE_SIZE_ALERT_TEXT": "Shtojcë kalon 50 MB kufi.",
-		"ON_PROGRESS_ALERT_TEXT": "Ngarko është në progres. Ju lutem prisni për diku para ngarkimi në një tjetër fotografi.",
-		"ON_UPLOAD_FAILURE_ALERT_TEXT": "File nuk mund të jetë i ngarkuar. Ju lutem rigjykuar në ditë.",
-		"UNSUPPORTED_FILE_ALERT_TEXT": "Kjo është një pambështetur file type.",
+		"DELETE_FILE_ALERT_TEXT": "Are you sure you want to delete this file?",
+		"EXCEEDED_FILE_SIZE_ALERT_TEXT": "Attachment exceeds 50 MB limit.",
+		"ON_PROGRESS_ALERT_TEXT": "File Upload is in progress. Please wait for sometime before uploading another file.",
+		"ON_UPLOAD_FAILURE_ALERT_TEXT": "File could not be uploaded. Please retry in sometime.",
+		"UNSUPPORTED_FILE_ALERT_TEXT": "This is an unsupported file type.",
 		"BUTTONS": {
 			"UPLOAD_BUTTON": "Ngarkoni bashkangjitje"
 		},
 		"LAST_UPDATED_BY": "Modifikimi i fundit nga",
-		"ON": "në"
+		"ON": "on"
 	},
 	"AUDIT_TRAIL": {
-		"TITLE": "Auditimi I Historisë",
-		"OPPURTUNITY_SCORECARD_CHANGES": "mundësi scorecard ndryshimet",
-		"OPPORTUNITY_PURSUIT_PLAN_CHANGES": "mundësi Ndjekjen e Planit të ndryshimeve",
+		"TITLE": "Audit History",
+		"OPPURTUNITY_SCORECARD_CHANGES": "opportunity scorecard changes",
+		"OPPORTUNITY_PURSUIT_PLAN_CHANGES": "opportunity Pursuit Plan changes",
 		"CIP_CHANGES": "Klienti Ndërveprimit Plani i ndryshimeve",
-		"DATE": "Data",
-		"SAVED_BY": "Të Shpëtuar Me Anë",
-		"VIEW_AS_PDF": "Shikoni si PDF"
+		"DATE": "Date",
+		"SAVED_BY": "Saved By",
+		"VIEW_AS_PDF": "View as PDF"
 	},
 	"CLIENT_INTERACTION_PLAN": {
 		"SELECT_CIP": "Zgjidhni PIK",
-		"CLIENT_INTERACTION_DETAILS": "Klienti Ndërveprimit Detajet",
+		"CLIENT_INTERACTION_DETAILS": "Client Interaction Details",
 		"OWNER": "Pronari",
-		"MEETING_DATE": "Takimi I Datës",
+		"MEETING_DATE": "Meeting Date",
 		"MEETING_TITLE": "Takimi Titullin",
-		"STATUS": "Statusi",
+		"STATUS": "Status",
 		"BI": {
-			"KNOWN_SYNC_RELATIONSHIP": "I Njohur Sync Marrëdhënie",
-			"OPP_BI_INFO": "OPP BI Tabela Info"
+			"KNOWN_SYNC_RELATIONSHIP": "Known Sync Relationship",
+			"OPP_BI_INFO": "OPP BI Table Info"
 		},
 		"CID": {
-			"VIEW_BRIEF_QUESTIONS": "Shikoni Pyetje Të Shkurtër"
+			"VIEW_BRIEF_QUESTIONS": "View Brief Questions"
 		}
 	},
 	"BEST_ACTION_DUE": {
 		"POP_UP": {
-			"NOT_ALLOWED": "Ju nuk janë të lejuar për të hyrë në këtë Rast. Ju lutemi, kontaktoni Ndjekje të Ekipit.",
+			"NOT_ALLOWED": "You are not allowed to access this Opportunity. Please contact your Pursuit Team.",
 			"ACTION": "VEPRIMI: "
 		}
 	},

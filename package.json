@@ -1,16 +1,16 @@
 {
     "name": "gulp-yandex-translate",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "description": "Translate module for yandex",
     "main": "index.js",
     "dependencies": {
         "gulp": "^3.9.1",
         "gulp-util": "^2.2.14",
         "through2": "^0.4.1",
-        "yandex-translate": "*",
-        "q": "*",
-        "jsonic": "*",
-        "lodash": "*"
+        "yandex-translate": "^2.1.0",
+        "q": "^1.4.1",
+        "jsonic": "^0.2.2",
+        "lodash": "^4.8.2"
     },
     "devDependencies": {},
     "scripts": {
@@ -22,7 +22,8 @@
     },
     "keywords": [
         "translate",
-        "yandex"
+        "yandex",
+        "json"
     ],
     "author": "Sathishkumar",
     "license": "ISC",
