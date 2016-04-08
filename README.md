@@ -4,9 +4,10 @@ Translate English JSON file to other language json file .
 
 
 ## Usage
-  var gulp = require('gulp')
-  var translate = require('gulp-yandex-translate');
 
+    var gulp = require('gulp');
+    var translate = require('gulp-yandex-translate');
+    
     //add a gulp task like below
     gulp.task('default', function(done) {
       //en.json is the input file which should have the english string values
