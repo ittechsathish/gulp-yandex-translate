@@ -42,8 +42,8 @@ Note: You can add valid json file or normal javascript json also.
       
 ### Options
 
-{
-    yandexAPIKey : Create a yandex api key - is string type
-    to : string or array of strings to specify the destination language
-}
+    yandexAPIKey : Create a yandex api key - is string type // "yandex_key"
+    
+    to : string or array of strings to specify the destination language // "ar" or ["ar", "sq"]
+
 
