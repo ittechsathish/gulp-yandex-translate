@@ -39,6 +39,8 @@ Note: You can add valid json file or normal javascript json also.
           .pipe(gulp.dest('./translated'));
     });
    
+   
+   Language Support: https://tech.yandex.com/translate/doc/dg/concepts/langs-docpage/
       
 ### Options
 
