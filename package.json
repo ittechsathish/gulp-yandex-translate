@@ -1,6 +1,6 @@
 {
     "name": "gulp-yandex-translate",
-    "version": "1.0.5",
+    "version": "1.1.0",
     "description": "Translate module for yandex",
     "main": "index.js",
     "dependencies": {
