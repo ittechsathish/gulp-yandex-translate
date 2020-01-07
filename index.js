@@ -1,5 +1,9 @@
 var through = require('through2');
-var gutil = require('gulp-util');
+var PluginError = require('plugin-error');
+var colors = require('ansi-colors');
+var log = require('fancy-log');
+var Vinyl = require('vinyl');
+
 var fs = require('fs');
 var $q = require('q');
 var jsonic = require('jsonic');
@@ -24,7 +28,7 @@ module.exports = function(options) {
         var targetLanguages = [];
 
         if (!options.to) {
-            this.emit('error', new gutil.PluginError('gulp-yandex-translate', 'Target language is required'));
+            this.emit('error', new PluginError('gulp-yandex-translate', 'Target language is required'));
         }
         else {
 
@@ -33,14 +37,14 @@ module.exports = function(options) {
             if (_.some(targetLanguages, function(val) {
                 return !_.isString(val);
             })) {
-                this.emit('error', new gutil.PluginError('gulp-yandex-translate', 'Target language specified in type of string or array of string'));
+                this.emit('error', new PluginError('gulp-yandex-translate', 'Target language specified in type of string or array of string'));
             }
         }
 
 
 
         if (!options.yandexAPIKey) {
-            this.emit('error', new gutil.PluginError('gulp-yandex-translate', 'Yandex API Key is Missing'));
+            this.emit('error', new PluginError('gulp-yandex-translate', 'Yandex API Key is Missing'));
         }
         else {
 
@@ -87,7 +91,7 @@ module.exports = function(options) {
 
         var translateFile = function(language, module_ref) {
 
-            gutil.log('', '', gutil.colors.magenta('started translating - ' + language));
+            log('', '', colors.magenta('started translating - ' + language));
 
             var language_defer = $q.defer();
 
@@ -120,7 +124,7 @@ module.exports = function(options) {
 
                     var statusCount = ((startingTranslatingLength / totalLength) * 100) + '%';
 
-                    gutil.log('', '', gutil.colors.magenta(language) + ' :  ' + gutil.colors.green(statusCount));
+                    log('', '', colors.magenta(language) + ' :  ' + colors.green(statusCount));
 
                 });
 
@@ -132,7 +136,7 @@ module.exports = function(options) {
 
                 var newFileContent = JSON.stringify(outputFile, null, '\t');
 
-                module_ref.push(new gutil.File({
+                module_ref.push(new Vinyl({
                     cwd: "./",
                     path: language + ".json",
                     contents: new Buffer(newFileContent)

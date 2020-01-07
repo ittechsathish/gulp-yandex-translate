@@ -4,12 +4,15 @@
     "description": "Translate module for yandex",
     "main": "index.js",
     "dependencies": {
+        "ansi-colors": "^4.1.1",
+        "fancy-log": "^1.3.3",
         "gulp": "^4.0.2",
-        "gulp-util": "^2.2.14",
         "jsonic": "^0.2.2",
         "lodash": "^4.8.2",
+        "plugin-error": "^1.0.1",
         "q": "^1.4.1",
         "through2": "^0.4.1",
+        "vinyl": "^2.2.0",
         "yandex-translate": "^2.1.0"
     },
     "devDependencies": {},
