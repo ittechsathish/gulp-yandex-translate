@@ -4,13 +4,13 @@
     "description": "Translate module for yandex",
     "main": "index.js",
     "dependencies": {
-        "gulp": "^3.9.1",
+        "gulp": "^4.0.2",
         "gulp-util": "^2.2.14",
-        "through2": "^0.4.1",
-        "yandex-translate": "^2.1.0",
-        "q": "^1.4.1",
         "jsonic": "^0.2.2",
-        "lodash": "^4.8.2"
+        "lodash": "^4.8.2",
+        "q": "^1.4.1",
+        "through2": "^0.4.1",
+        "yandex-translate": "^2.1.0"
     },
     "devDependencies": {},
     "scripts": {
